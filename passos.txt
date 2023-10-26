@@ -1,0 +1,3 @@
+Configurando o Git
+git config --global user.name guxtagrimes
+git config --global user.email gustavolor190@gmail.com
